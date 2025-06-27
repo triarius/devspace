@@ -13,7 +13,7 @@ const DefaultVarsPath = "devspace-vars.yaml"
 const DefaultHomeDevSpaceFolder = ".local/share/devspace"
 
 // DefaultCacheFolder is the default folder where generated.yaml will be stored
-const DefaultCacheFolder = ".cache/devspace"
+const DefaultCacheFolder = ".devspace"
 
 // BuiltImagesKey is the runtime variable key to retrieve built images within this run
 const BuiltImagesKey = "builtImages"
